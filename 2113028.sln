@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiThucHanhBuoi1", "BaiThucHanhBuoi1\BaiThucHanhBuoi1.csproj", "{9D678161-25FA-463A-8716-ABAD1F15DB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai2\Bai2.csproj", "{9F5DB346-3E50-45DF-8D76-CEB2A8924F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKForm", "TKForm\TKForm.csproj", "{E6AC23F6-7B5D-4FA4-968A-898D28B145BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D678161-25FA-463A-8716-ABAD1F15DB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D678161-25FA-463A-8716-ABAD1F15DB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D678161-25FA-463A-8716-ABAD1F15DB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D678161-25FA-463A-8716-ABAD1F15DB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5DB346-3E50-45DF-8D76-CEB2A8924F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5DB346-3E50-45DF-8D76-CEB2A8924F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5DB346-3E50-45DF-8D76-CEB2A8924F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5DB346-3E50-45DF-8D76-CEB2A8924F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AC23F6-7B5D-4FA4-968A-898D28B145BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AC23F6-7B5D-4FA4-968A-898D28B145BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AC23F6-7B5D-4FA4-968A-898D28B145BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AC23F6-7B5D-4FA4-968A-898D28B145BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E63083-4BDE-47D0-8416-463040C3358A}
+	EndGlobalSection
+EndGlobal
