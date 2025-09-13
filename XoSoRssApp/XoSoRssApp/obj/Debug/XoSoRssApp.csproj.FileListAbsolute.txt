@@ -1,0 +1,11 @@
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.csproj.AssemblyReference.cache
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.Controls.ProvinceRssControl.resources
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.FormMain.resources
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.Properties.Resources.resources
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.csproj.GenerateResource.cache
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.csproj.CoreCompileInputs.cache
+D:\2113028\XoSoRssApp\XoSoRssApp\bin\Debug\XoSoRssApp.exe.config
+D:\2113028\XoSoRssApp\XoSoRssApp\bin\Debug\XoSoRssApp.exe
+D:\2113028\XoSoRssApp\XoSoRssApp\bin\Debug\XoSoRssApp.pdb
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.exe
+D:\2113028\XoSoRssApp\XoSoRssApp\obj\Debug\XoSoRssApp.pdb
