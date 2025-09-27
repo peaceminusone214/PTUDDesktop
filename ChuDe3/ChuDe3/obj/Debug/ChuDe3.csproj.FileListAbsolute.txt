@@ -1,0 +1,16 @@
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\bin\Debug\ChuDe3.exe.config
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\bin\Debug\ChuDe3.exe
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\bin\Debug\ChuDe3.pdb
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.csproj.AssemblyReference.cache
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.Form1.resources
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.Properties.Resources.resources
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.csproj.GenerateResource.cache
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.csproj.CoreCompileInputs.cache
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.exe
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.pdb
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\bin\Debug\Newtonsoft.Json.dll
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\bin\Debug\Newtonsoft.Json.xml
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.exe.config
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.csproj.Up2Date
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.FormSearch.resources
+D:\Learning\Desktop\2113028-3\ChuDe3\ChuDe3\obj\Debug\ChuDe3.FormAddMonHoc.resources

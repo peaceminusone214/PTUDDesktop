@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\formsearch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\formsearch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|d:\\learning\\desktop\\2113028-3\\chude3\\chude3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|d:\\learning\\desktop\\2113028-3\\chude3\\chude3\\formaddmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\formaddmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|d:\\learning\\desktop\\2113028-3\\chude3\\chude3\\formaddmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\formaddmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\xmlstudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\xmlstudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\txtstudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\txtstudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\jsonstudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\jsonstudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\istudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\istudentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\chude3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D6453-8C6C-4693-A56E-28BF60CACDFE}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Form1.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\Form1.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Form1.cs",
+              "RelativeToolTip": "ChuDe3\\Form1.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAADwv84AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:50:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSearch.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormSearch.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\FormSearch.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormSearch.cs [Design]",
+              "RelativeToolTip": "ChuDe3\\FormSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:34:59.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSearch.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormSearch.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\FormSearch.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormSearch.cs",
+              "RelativeToolTip": "ChuDe3\\FormSearch.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:35:05.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSearch.Designer.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormSearch.Designer.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\FormSearch.Designer.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormSearch.Designer.cs",
+              "RelativeToolTip": "ChuDe3\\FormSearch.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADgvz4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:49:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Form1.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\Form1.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Form1.cs [Design]",
+              "RelativeToolTip": "ChuDe3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:50:33.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAddMonHoc.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormAddMonHoc.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\FormAddMonHoc.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormAddMonHoc.cs",
+              "RelativeToolTip": "ChuDe3\\FormAddMonHoc.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:55:30.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormAddMonHoc.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\FormAddMonHoc.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\FormAddMonHoc.cs [Design]",
+              "RelativeToolTip": "ChuDe3\\FormAddMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:51:03.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XmlStudentStorage.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\XmlStudentStorage.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\XmlStudentStorage.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\XmlStudentStorage.cs",
+              "RelativeToolTip": "ChuDe3\\XmlStudentStorage.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:16:17.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\Form1.Designer.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Form1.Designer.cs",
+              "RelativeToolTip": "ChuDe3\\Form1.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAADgvw0BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:50:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TxtStudentStorage.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\TxtStudentStorage.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\TxtStudentStorage.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\TxtStudentStorage.cs",
+              "RelativeToolTip": "ChuDe3\\TxtStudentStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:15:34.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonStudentStorage.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\JsonStudentStorage.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\JsonStudentStorage.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\JsonStudentStorage.cs",
+              "RelativeToolTip": "ChuDe3\\JsonStudentStorage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:18:05.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\StudentManager.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\StudentManager.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\StudentManager.cs",
+              "RelativeToolTip": "ChuDe3\\StudentManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:21:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentStorage.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\IStudentStorage.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\IStudentStorage.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\IStudentStorage.cs",
+              "RelativeToolTip": "ChuDe3\\IStudentStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:14:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Student.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\Student.cs",
+              "ToolTip": "D:\\Learning\\Desktop\\2113028-3\\ChuDe3\\ChuDe3\\Student.cs",
+              "RelativeToolTip": "ChuDe3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:13:45.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

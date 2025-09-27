@@ -1,0 +1,32 @@
+[
+  {
+    "MSSV": "1231231",
+    "HoTenLot": "asd",
+    "Ten": "asd",
+    "NgaySinh": "2025-09-21T11:17:06.201094+07:00",
+    "CMND": "123412341",
+    "DiaChi": "asdasdasdf",
+    "GioiTinhNam": true,
+    "Lop": "CTK46",
+    "SoDT": "1234.123.412",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+    {
+    "MSSV": "1231232",
+    "HoTenLot": "asd",
+    "Ten": "asd",
+    "NgaySinh": "2025-09-21T11:17:06.201094+07:00",
+    "CMND": "123412341",
+    "DiaChi": "asdasdasdf",
+    "GioiTinhNam": true,
+    "Lop": "CTK46",
+    "SoDT": "1234.123.412",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  }
+]

@@ -28,43 +28,42 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.maskedTextBox2 = new System.Windows.Forms.MaskedTextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.mtbMSSV = new System.Windows.Forms.MaskedTextBox();
+            this.txtDiaChi = new System.Windows.Forms.TextBox();
+            this.cbLop = new System.Windows.Forms.ComboBox();
+            this.dtpNgaySinh = new System.Windows.Forms.DateTimePicker();
+            this.mtbCMND = new System.Windows.Forms.MaskedTextBox();
+            this.txtHoTenLot = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.rdNam = new System.Windows.Forms.RadioButton();
             this.rdNu = new System.Windows.Forms.RadioButton();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.maskedTextBox3 = new System.Windows.Forms.MaskedTextBox();
-            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
+            this.txtTen = new System.Windows.Forms.TextBox();
+            this.mtbSoDT = new System.Windows.Forms.MaskedTextBox();
+            this.clbMonHoc = new System.Windows.Forms.CheckedListBox();
             this.btnTim = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.listView1 = new System.Windows.Forms.ListView();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader8 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader9 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.lvDssv = new System.Windows.Forms.ListView();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.mnuXoa = new System.Windows.Forms.ToolStripTextBox();
+            this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.thêmMônToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.xóaMônToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
+            this.contextMenuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -121,48 +120,59 @@
             this.label6.TabIndex = 5;
             this.label6.Text = "Môn học đăng ký:";
             // 
-            // maskedTextBox1
+            // mtbMSSV
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(134, 27);
-            this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(191, 20);
-            this.maskedTextBox1.TabIndex = 6;
+            this.mtbMSSV.Location = new System.Drawing.Point(134, 27);
+            this.mtbMSSV.Mask = "0000000";
+            this.mtbMSSV.Name = "mtbMSSV";
+            this.mtbMSSV.Size = new System.Drawing.Size(191, 20);
+            this.mtbMSSV.TabIndex = 6;
             // 
-            // textBox1
+            // txtDiaChi
             // 
-            this.textBox1.Location = new System.Drawing.Point(134, 144);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(478, 20);
-            this.textBox1.TabIndex = 7;
+            this.txtDiaChi.Location = new System.Drawing.Point(134, 144);
+            this.txtDiaChi.Name = "txtDiaChi";
+            this.txtDiaChi.Size = new System.Drawing.Size(478, 20);
+            this.txtDiaChi.TabIndex = 7;
             // 
-            // comboBox1
+            // cbLop
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(421, 85);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(191, 21);
-            this.comboBox1.TabIndex = 8;
+            this.cbLop.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbLop.FormattingEnabled = true;
+            this.cbLop.Items.AddRange(new object[] {
+            "CTK45",
+            "CTK46",
+            "CTK47",
+            "CTK48",
+            "CTK49"});
+            this.cbLop.Location = new System.Drawing.Point(421, 85);
+            this.cbLop.Name = "cbLop";
+            this.cbLop.Size = new System.Drawing.Size(191, 21);
+            this.cbLop.TabIndex = 8;
             // 
-            // dateTimePicker1
+            // dtpNgaySinh
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(134, 87);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(191, 20);
-            this.dateTimePicker1.TabIndex = 9;
+            this.dtpNgaySinh.CustomFormat = "dd/MM/yyyy";
+            this.dtpNgaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpNgaySinh.Location = new System.Drawing.Point(134, 87);
+            this.dtpNgaySinh.Name = "dtpNgaySinh";
+            this.dtpNgaySinh.Size = new System.Drawing.Size(191, 20);
+            this.dtpNgaySinh.TabIndex = 9;
             // 
-            // maskedTextBox2
+            // mtbCMND
             // 
-            this.maskedTextBox2.Location = new System.Drawing.Point(134, 118);
-            this.maskedTextBox2.Name = "maskedTextBox2";
-            this.maskedTextBox2.Size = new System.Drawing.Size(191, 20);
-            this.maskedTextBox2.TabIndex = 10;
+            this.mtbCMND.Location = new System.Drawing.Point(134, 118);
+            this.mtbCMND.Mask = "000000000";
+            this.mtbCMND.Name = "mtbCMND";
+            this.mtbCMND.Size = new System.Drawing.Size(191, 20);
+            this.mtbCMND.TabIndex = 10;
             // 
-            // textBox2
+            // txtHoTenLot
             // 
-            this.textBox2.Location = new System.Drawing.Point(134, 56);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(191, 20);
-            this.textBox2.TabIndex = 11;
+            this.txtHoTenLot.Location = new System.Drawing.Point(134, 56);
+            this.txtHoTenLot.Name = "txtHoTenLot";
+            this.txtHoTenLot.Size = new System.Drawing.Size(191, 20);
+            this.txtHoTenLot.TabIndex = 11;
             // 
             // label7
             // 
@@ -176,6 +186,7 @@
             // rdNam
             // 
             this.rdNam.AutoSize = true;
+            this.rdNam.Checked = true;
             this.rdNam.Location = new System.Drawing.Point(421, 27);
             this.rdNam.Name = "rdNam";
             this.rdNam.Size = new System.Drawing.Size(47, 17);
@@ -222,25 +233,27 @@
             this.label10.TabIndex = 17;
             this.label10.Text = "Số ĐT";
             // 
-            // textBox3
+            // txtTen
             // 
-            this.textBox3.Location = new System.Drawing.Point(421, 56);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(191, 20);
-            this.textBox3.TabIndex = 18;
+            this.txtTen.Location = new System.Drawing.Point(421, 56);
+            this.txtTen.Name = "txtTen";
+            this.txtTen.Size = new System.Drawing.Size(191, 20);
+            this.txtTen.TabIndex = 18;
             // 
-            // maskedTextBox3
+            // mtbSoDT
             // 
-            this.maskedTextBox3.Location = new System.Drawing.Point(421, 117);
-            this.maskedTextBox3.Name = "maskedTextBox3";
-            this.maskedTextBox3.Size = new System.Drawing.Size(191, 20);
-            this.maskedTextBox3.TabIndex = 19;
+            this.mtbSoDT.Location = new System.Drawing.Point(421, 117);
+            this.mtbSoDT.Mask = "0000.000.000";
+            this.mtbSoDT.Name = "mtbSoDT";
+            this.mtbSoDT.Size = new System.Drawing.Size(191, 20);
+            this.mtbSoDT.TabIndex = 19;
             // 
-            // checkedListBox1
+            // clbMonHoc
             // 
-            this.checkedListBox1.ColumnWidth = 200;
-            this.checkedListBox1.FormattingEnabled = true;
-            this.checkedListBox1.Items.AddRange(new object[] {
+            this.clbMonHoc.ColumnWidth = 200;
+            this.clbMonHoc.ContextMenuStrip = this.contextMenuStrip2;
+            this.clbMonHoc.FormattingEnabled = true;
+            this.clbMonHoc.Items.AddRange(new object[] {
             "Mạng máy tính",
             "Hệ điều hành",
             "Lập trình CSDL",
@@ -249,145 +262,151 @@
             "Phương pháp NCKH",
             "Lập trình trên thiết bị di động",
             "An toàn và bảo mật hệ thống"});
-            this.checkedListBox1.Location = new System.Drawing.Point(134, 177);
-            this.checkedListBox1.MultiColumn = true;
-            this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(478, 64);
-            this.checkedListBox1.TabIndex = 20;
+            this.clbMonHoc.Location = new System.Drawing.Point(134, 177);
+            this.clbMonHoc.MultiColumn = true;
+            this.clbMonHoc.Name = "clbMonHoc";
+            this.clbMonHoc.Size = new System.Drawing.Size(478, 94);
+            this.clbMonHoc.TabIndex = 20;
             // 
             // btnTim
             // 
-            this.btnTim.Location = new System.Drawing.Point(192, 247);
+            this.btnTim.Location = new System.Drawing.Point(172, 286);
             this.btnTim.Name = "btnTim";
             this.btnTim.Size = new System.Drawing.Size(75, 23);
             this.btnTim.TabIndex = 21;
             this.btnTim.Text = "Tìm kiếm";
             this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(289, 247);
+            this.btnThem.Location = new System.Drawing.Point(269, 286);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 22;
             this.btnThem.Text = "Thêm mới";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(383, 247);
+            this.btnUpdate.Location = new System.Drawing.Point(363, 286);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(75, 23);
             this.btnUpdate.TabIndex = 23;
             this.btnUpdate.Text = "Cập nhật";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(474, 247);
+            this.btnThoat.Location = new System.Drawing.Point(454, 286);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 23);
             this.btnThoat.TabIndex = 24;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.listView1);
+            this.groupBox1.Controls.Add(this.lvDssv);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.groupBox1.Location = new System.Drawing.Point(0, 280);
+            this.groupBox1.Location = new System.Drawing.Point(0, 332);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(658, 200);
             this.groupBox1.TabIndex = 25;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Danh sách sinh viên";
             // 
-            // listView1
+            // lvDssv
             // 
-            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader1,
-            this.columnHeader2,
-            this.columnHeader3,
-            this.columnHeader4,
-            this.columnHeader5,
-            this.columnHeader6,
-            this.columnHeader7,
-            this.columnHeader8,
-            this.columnHeader9});
-            this.listView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(3, 16);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(652, 181);
-            this.listView1.TabIndex = 0;
-            this.listView1.UseCompatibleStateImageBehavior = false;
+            this.lvDssv.ContextMenuStrip = this.contextMenuStrip1;
+            this.lvDssv.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lvDssv.HideSelection = false;
+            this.lvDssv.Location = new System.Drawing.Point(3, 16);
+            this.lvDssv.Name = "lvDssv";
+            this.lvDssv.Size = new System.Drawing.Size(652, 181);
+            this.lvDssv.TabIndex = 0;
+            this.lvDssv.UseCompatibleStateImageBehavior = false;
+            this.lvDssv.SelectedIndexChanged += new System.EventHandler(this.lvDssv_SelectedIndexChanged);
             // 
-            // columnHeader1
+            // contextMenuStrip1
             // 
-            this.columnHeader1.Text = "MSSV";
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mnuXoa});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(161, 29);
             // 
-            // columnHeader2
+            // mnuXoa
             // 
-            this.columnHeader2.Text = "Họ và tên lót";
+            this.mnuXoa.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.mnuXoa.Name = "mnuXoa";
+            this.mnuXoa.Size = new System.Drawing.Size(100, 23);
+            this.mnuXoa.Text = "Xóa";
+            this.mnuXoa.Click += new System.EventHandler(this.mnuXoa_Click);
             // 
-            // columnHeader3
+            // contextMenuStrip2
             // 
-            this.columnHeader3.Text = "Tên";
+            this.contextMenuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.thêmMônToolStripMenuItem,
+            this.xóaMônToolStripMenuItem});
+            this.contextMenuStrip2.Name = "contextMenuStrip2";
+            this.contextMenuStrip2.Size = new System.Drawing.Size(133, 48);
             // 
-            // columnHeader4
+            // thêmMônToolStripMenuItem
             // 
-            this.columnHeader4.Text = "Ngày sinh";
+            this.thêmMônToolStripMenuItem.Name = "thêmMônToolStripMenuItem";
+            this.thêmMônToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.thêmMônToolStripMenuItem.Text = "Thêm môn";
+            this.thêmMônToolStripMenuItem.Click += new System.EventHandler(this.thêmMônToolStripMenuItem_Click);
             // 
-            // columnHeader5
+            // xóaMônToolStripMenuItem
             // 
-            this.columnHeader5.Text = "Lớp";
-            // 
-            // columnHeader6
-            // 
-            this.columnHeader6.Text = "Số CMND";
-            // 
-            // columnHeader7
-            // 
-            this.columnHeader7.Text = "Số điện thoại";
-            // 
-            // columnHeader8
-            // 
-            this.columnHeader8.Text = "Địa chỉ liên lạc";
+            this.xóaMônToolStripMenuItem.Name = "xóaMônToolStripMenuItem";
+            this.xóaMônToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.xóaMônToolStripMenuItem.Text = "Xóa môn";
+            this.xóaMônToolStripMenuItem.Click += new System.EventHandler(this.xóaMônToolStripMenuItem_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(658, 480);
+            this.ClientSize = new System.Drawing.Size(658, 532);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.btnTim);
-            this.Controls.Add(this.checkedListBox1);
-            this.Controls.Add(this.maskedTextBox3);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.clbMonHoc);
+            this.Controls.Add(this.mtbSoDT);
+            this.Controls.Add(this.txtTen);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.rdNu);
             this.Controls.Add(this.rdNam);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.maskedTextBox2);
-            this.Controls.Add(this.dateTimePicker1);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.maskedTextBox1);
+            this.Controls.Add(this.txtHoTenLot);
+            this.Controls.Add(this.mtbCMND);
+            this.Controls.Add(this.dtpNgaySinh);
+            this.Controls.Add(this.cbLop);
+            this.Controls.Add(this.txtDiaChi);
+            this.Controls.Add(this.mtbMSSV);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.Text = "Nhập thông tin sinh viên";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
+            this.contextMenuStrip1.ResumeLayout(false);
+            this.contextMenuStrip1.PerformLayout();
+            this.contextMenuStrip2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -401,36 +420,32 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.MaskedTextBox maskedTextBox1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
-        private System.Windows.Forms.MaskedTextBox maskedTextBox2;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.MaskedTextBox mtbMSSV;
+        private System.Windows.Forms.TextBox txtDiaChi;
+        private System.Windows.Forms.ComboBox cbLop;
+        private System.Windows.Forms.DateTimePicker dtpNgaySinh;
+        private System.Windows.Forms.MaskedTextBox mtbCMND;
+        private System.Windows.Forms.TextBox txtHoTenLot;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.RadioButton rdNam;
         private System.Windows.Forms.RadioButton rdNu;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.MaskedTextBox maskedTextBox3;
-        private System.Windows.Forms.CheckedListBox checkedListBox1;
+        private System.Windows.Forms.TextBox txtTen;
+        private System.Windows.Forms.MaskedTextBox mtbSoDT;
+        private System.Windows.Forms.CheckedListBox clbMonHoc;
         private System.Windows.Forms.Button btnTim;
         private System.Windows.Forms.Button btnThem;
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
-        private System.Windows.Forms.ColumnHeader columnHeader3;
-        private System.Windows.Forms.ColumnHeader columnHeader4;
-        private System.Windows.Forms.ColumnHeader columnHeader5;
-        private System.Windows.Forms.ColumnHeader columnHeader6;
-        private System.Windows.Forms.ColumnHeader columnHeader7;
-        private System.Windows.Forms.ColumnHeader columnHeader8;
-        private System.Windows.Forms.ColumnHeader columnHeader9;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripTextBox mnuXoa;
+        private System.Windows.Forms.ListView lvDssv;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
+        private System.Windows.Forms.ToolStripMenuItem thêmMônToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem xóaMônToolStripMenuItem;
     }
 }
 
